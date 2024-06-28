@@ -55,5 +55,5 @@ def main_upload(user , main_path:str , sp:str ) :
                 counter += 1
         else :
             if len(database_folders) == 0 :
-                print ("The upload is doen :)")
+                print ("Uploaded successfully. :)")
                 break
